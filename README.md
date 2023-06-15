@@ -33,7 +33,7 @@ The image recognition code utilizes the OpenCV library to detect and classify ob
 4. Run the script:
 
     ```bash
-   python3 image_recognition.py
+   python3 ImageRecog.py
 
 6. This will start the image recognition process. You can provide the path to an image or use the webcam for real-time object detection.
 
